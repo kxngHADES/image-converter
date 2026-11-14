@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="FLIP/ - Drop it. Flip it. Take it.">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="12"/></filter>
+    <pattern id="dots" width="11" height="11" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#FF5B23"/></pattern>
+    <radialGradient id="fade"><stop offset="30%" stop-color="#fff"/><stop offset="70%" stop-color="#000"/></radialGradient>
+    <mask id="m"><circle cx="1010" cy="90" r="110" fill="url(#fade)"/></mask>
+    <clipPath id="card"><rect width="1200" height="420" rx="28"/></clipPath>
+    <linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".09"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#1b1d23"/>
+
+    <!-- drifting halftone -->
+    <g mask="url(#m)" opacity=".6">
+      <rect x="900" y="-20" width="220" height="220" fill="url(#dots)">
+        <animateTransform attributeName="transform" type="translate" values="0 0;11 11;0 0" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- ghost numeral -->
+    <text x="1130" y="400" text-anchor="end" font-family="Impact, 'Arial Black', sans-serif" font-size="420" fill="none" stroke="#ECE8DF" stroke-opacity=".06" stroke-width="2">01
+      <animate attributeName="stroke-opacity" values=".04;.1;.04" dur="5s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- eyebrow -->
+    <rect x="60" y="52" width="268" height="38" rx="19" fill="#1b1d23" stroke="#292c35" stroke-width="2"/>
+    <circle cx="84" cy="71" r="5" fill="#D7FF3A"/>
+    <circle cx="84" cy="71" r="5" fill="#D7FF3A">
+      <animate attributeName="r" values="5;13;5" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".6;0;.6" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="102" y="76" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.2" fill="#868b98">IMAGE FORMAT CONVERTER</text>
+
+    <!-- mega type, staggered slide-in loop -->
+    <g font-family="Impact,'Arial Black','Anton',sans-serif" font-size="104" letter-spacing="1">
+      <text x="58" y="172" fill="#ECE8DF">DROP IT.
+        <animate attributeName="x" values="-420;58;58;58" keyTimes="0;.12;.9;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines=".2 .9 .2 1;0 0 1 1;0 0 1 1"/>
+      </text>
+      <text x="58" y="262" fill="#D7FF3A" filter="url(#glow)" opacity=".35">FLIP IT.
+        <animate attributeName="opacity" values=".15;.5;.15" dur="2.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="58" y="262" fill="#D7FF3A">FLIP IT.
+        <animate attributeName="x" values="-420;-420;58;58;58" keyTimes="0;.08;.2;.9;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;.2 .9 .2 1;0 0 1 1;0 0 1 1"/>
+      </text>
+      <text x="58" y="352" fill="none" stroke="#ECE8DF" stroke-width="2.5" stroke-dasharray="520" stroke-dashoffset="520">TAKE IT.
+        <animate attributeName="stroke-dashoffset" values="520;520;0;0;520" keyTimes="0;.18;.4;.9;1" dur="9s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- collage cutouts, each one bobbing out of phase -->
+    <g font-family="Impact,'Arial Black',sans-serif" font-size="46">
+      <g transform="translate(560 168)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin="0s" repeatCount="indefinite"/>
+        <g transform="rotate(-6)"><rect width="52" height="58" fill="#EFE9DC"/><text x="26" y="45" text-anchor="middle" fill="#111214">H</text></g></g></g>
+      <g transform="translate(618 176)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin=".2s" repeatCount="indefinite"/>
+        <g transform="rotate(4)"><rect width="52" height="58" fill="#FF5B23"/><text x="26" y="45" text-anchor="middle" fill="#111214">E</text></g></g></g>
+      <g transform="translate(676 168)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin=".4s" repeatCount="indefinite"/>
+        <g transform="rotate(-2)"><rect width="48" height="58" fill="#111214" stroke="#D7FF3A" stroke-width="3"/><text x="24" y="45" text-anchor="middle" fill="#D7FF3A">I</text></g></g></g>
+      <g transform="translate(730 172)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin=".6s" repeatCount="indefinite"/>
+        <g transform="rotate(7)"><rect width="54" height="58" fill="#FF8FC7"/><text x="27" y="45" text-anchor="middle" fill="#111214">C</text></g></g></g>
+
+      <text x="808" y="218" font-family="'Comic Sans MS',cursive" font-size="54" font-weight="700" fill="#D7FF3A">&#8594;
+        <animateTransform attributeName="transform" type="translate" values="0 0;12 0;0 0" dur="1.2s" repeatCount="indefinite"/>
+      </text>
+
+      <g transform="translate(872 164)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin="1s" repeatCount="indefinite"/>
+        <g transform="rotate(-5)"><rect width="52" height="58" fill="#D7FF3A"/><text x="26" y="45" text-anchor="middle" fill="#111214">J</text></g></g></g>
+      <g transform="translate(930 172)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+        <g transform="rotate(3)"><rect width="54" height="58" fill="#C9A877"/><text x="27" y="45" text-anchor="middle" fill="#111214">P</text></g></g></g>
+      <g transform="translate(990 166)"><g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.6s" begin="1.4s" repeatCount="indefinite"/>
+        <g transform="rotate(-8)"><rect width="56" height="58" fill="#4D7CFF"/><text x="28" y="45" text-anchor="middle" fill="#EFE9DC">G</text></g></g></g>
+    </g>
+
+    <!-- spinning burst sticker -->
+    <g transform="translate(1060 100)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+        <path fill="#D7FF3A" transform="translate(-60 -60)" d="M60 0l8 18 16-11 1 20 19-4-7 19 19 7-17 11 13 14-20 3 5 19-18-6-3 20-14-14-14 14-3-20-18 6 5-19-20-3 13-14-17-11 19-7-7-19 19 4 1-20 16 11z"/>
+      </g>
+      <g transform="rotate(12)" font-family="Impact,'Arial Black',sans-serif" font-size="17" fill="#111214" text-anchor="middle">
+        <text y="-2">NO</text><text y="16">UPLOADS</text>
+      </g>
+    </g>
+
+    <!-- handwritten note -->
+    <g transform="rotate(-4 560 300)">
+      <text x="560" y="300" font-family="'Comic Sans MS','Segoe Print',cursive" font-size="21" font-style="italic" fill="#FF8FC7">iPhone pics? we got you.
+        <animate attributeName="opacity" values="1;.55;1" dur="3s" repeatCount="indefinite"/>
+      </text>
+    </g>
+    <path d="M620 312c30 10 60 4 78-14m-14-2l14-2-4 14" fill="none" stroke="#FF8FC7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="140" stroke-dashoffset="140">
+      <animate attributeName="stroke-dashoffset" values="140;0;0;140" keyTimes="0;.35;.9;1" dur="4s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- progress bar that fills on loop -->
+    <rect x="560" y="352" width="580" height="12" rx="6" fill="#0e0f13"/>
+    <rect x="560" y="352" width="0" height="12" rx="6" fill="#D7FF3A" filter="url(#glow)" opacity=".5">
+      <animate attributeName="width" values="0;580;580;0" keyTimes="0;.7;.92;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="560" y="352" width="0" height="12" rx="6" fill="#D7FF3A">
+      <animate attributeName="width" values="0;580;580;0" keyTimes="0;.7;.92;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- light sweep across the whole card -->
+    <rect y="0" width="260" height="420" fill="url(#sweep)">
+      <animate attributeName="x" values="-300;1300" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#292c35" stroke-width="2"/>
+</svg>

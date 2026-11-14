@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="How it works: drop, flip, take">
+  <defs><filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="8"/></filter></defs>
+  <rect width="1200" height="260" rx="24" fill="#1b1d23" stroke="#292c35" stroke-width="2"/>
+
+  <!-- connector -->
+  <path d="M230 130H500M700 130H970" stroke="#5b5f6b" stroke-width="2" stroke-dasharray="6 9" fill="none">
+    <animate attributeName="stroke-dashoffset" from="0" to="-150" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <circle r="7" fill="#D7FF3A" filter="url(#g)"><animateMotion dur="4s" repeatCount="indefinite" path="M230 130H970"/></circle>
+  <circle r="6" fill="#D7FF3A"><animateMotion dur="4s" repeatCount="indefinite" path="M230 130H970"/></circle>
+
+  <g font-family="Impact,'Arial Black',sans-serif" text-anchor="middle">
+    <!-- 01 -->
+    <g transform="translate(150 130)">
+      <circle r="76" fill="#14161b" stroke="#292c35" stroke-width="2"/>
+      <circle r="76" fill="none" stroke="#D7FF3A" stroke-width="3" stroke-dasharray="478" stroke-dashoffset="478" transform="rotate(-90)">
+        <animate attributeName="stroke-dashoffset" values="478;0;0;478" keyTimes="0;.25;.9;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-6" font-size="46" fill="#ECE8DF">01</text>
+      <text y="26" font-size="17" letter-spacing="3" fill="#D7FF3A">DROP</text>
+    </g>
+    <!-- 02 -->
+    <g transform="translate(600 130)">
+      <circle r="76" fill="#14161b" stroke="#292c35" stroke-width="2"/>
+      <circle r="76" fill="none" stroke="#FF5B23" stroke-width="3" stroke-dasharray="478" stroke-dashoffset="478" transform="rotate(-90)">
+        <animate attributeName="stroke-dashoffset" values="478;478;0;0;478" keyTimes="0;.28;.55;.9;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-6" font-size="46" fill="#ECE8DF">02</text>
+      <text y="26" font-size="17" letter-spacing="3" fill="#FF5B23">FLIP</text>
+    </g>
+    <!-- 03 -->
+    <g transform="translate(1050 130)">
+      <circle r="76" fill="#14161b" stroke="#292c35" stroke-width="2"/>
+      <circle r="76" fill="none" stroke="#FF8FC7" stroke-width="3" stroke-dasharray="478" stroke-dashoffset="478" transform="rotate(-90)">
+        <animate attributeName="stroke-dashoffset" values="478;478;0;0;478" keyTimes="0;.58;.85;.92;1" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <text y="-6" font-size="46" fill="#ECE8DF">03</text>
+      <text y="26" font-size="17" letter-spacing="3" fill="#FF8FC7">TAKE</text>
+    </g>
+  </g>
+
+  <g font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" fill="#868b98" text-anchor="middle">
+    <text x="150" y="238">files or clipboard</text>
+    <text x="600" y="238">canvas re-encode</text>
+    <text x="1050" y="238">single file or .zip</text>
+  </g>
+</svg>

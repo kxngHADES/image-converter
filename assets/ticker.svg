@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46" role="img" aria-label="HEIC to JPG, PNG to WEBP, AVIF to PNG, scrolling ticker">
+  <defs><clipPath id="c"><rect width="1200" height="46" rx="12"/></clipPath>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#1b1d23"/><stop offset=".06" stop-color="#1b1d23" stop-opacity="0"/>
+      <stop offset=".94" stop-color="#1b1d23" stop-opacity="0"/><stop offset="1" stop-color="#1b1d23"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="46" fill="#1b1d23"/>
+    <g font-family="Impact,'Arial Black',sans-serif" font-size="17" letter-spacing="1.6" fill="#868b98">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1100 0" dur="26s" repeatCount="indefinite"/>
+        <text y="30">HEIC &#8594; JPG <tspan fill="#D7FF3A">/</tspan> PNG &#8594; WEBP <tspan fill="#D7FF3A">/</tspan> AVIF &#8594; PNG <tspan fill="#D7FF3A">/</tspan> WEBP &#8594; JPG <tspan fill="#D7FF3A">/</tspan> HEIF &#8594; PNG <tspan fill="#D7FF3A">/</tspan> GIF &#8594; JPG <tspan fill="#D7FF3A">/</tspan> BMP &#8594; WEBP <tspan fill="#D7FF3A">/</tspan> HEIC &#8594; JPG <tspan fill="#D7FF3A">/</tspan> PNG &#8594; WEBP <tspan fill="#D7FF3A">/</tspan> AVIF &#8594; PNG <tspan fill="#D7FF3A">/</tspan> WEBP &#8594; JPG <tspan fill="#D7FF3A">/</tspan> HEIF &#8594; PNG <tspan fill="#D7FF3A">/</tspan> GIF &#8594; JPG <tspan fill="#D7FF3A">/</tspan> BMP &#8594; WEBP <tspan fill="#D7FF3A">/</tspan> HEIC &#8594; JPG <tspan fill="#D7FF3A">/</tspan> PNG &#8594; WEBP <tspan fill="#D7FF3A">/</tspan></text>
+      </g>
+    </g>
+    <rect width="1200" height="46" fill="url(#edge)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="45" rx="12" fill="none" stroke="#292c35"/>
+</svg>
