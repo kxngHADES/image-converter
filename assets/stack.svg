@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1094" height="72" viewBox="0 0 1094 72" role="img" aria-label="HTML5, CSS3, Vanilla JS, GSAP, JSZip, heic2any, Canvas API"><defs>
+<filter id="blur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+<linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><g transform="translate(12 12)">
+<rect x="3" y="4" width="126" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="126" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="126" height="48" rx="24.0" fill="#1b1d23" stroke="#FF5B23" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg0)"><rect y="0" width="50" height="48" fill="url(#sheen)"><animate attributeName="x" values="-63;126" dur="4.0s" begin="0.0s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg0"><rect width="126" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#FF5B23"/>
+<circle cx="26" cy="24.0" r="6" fill="#FF5B23"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="48" lengthAdjust="spacing" letter-spacing="2">HTML5</text>
+</g><g transform="translate(152 12)">
+<rect x="3" y="4" width="116" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="116" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="116" height="48" rx="24.0" fill="#1b1d23" stroke="#4D7CFF" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg1)"><rect y="0" width="46" height="48" fill="url(#sheen)"><animate attributeName="x" values="-58;116" dur="4.7s" begin="0.5s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg1"><rect width="116" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#4D7CFF"/>
+<circle cx="26" cy="24.0" r="6" fill="#4D7CFF"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="38" lengthAdjust="spacing" letter-spacing="2">CSS3</text>
+</g><g transform="translate(282 12)">
+<rect x="3" y="4" width="174" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="174" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="174" height="48" rx="24.0" fill="#1b1d23" stroke="#D7FF3A" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg2)"><rect y="0" width="70" height="48" fill="url(#sheen)"><animate attributeName="x" values="-87;174" dur="5.4s" begin="1.0s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg2"><rect width="174" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#D7FF3A"/>
+<circle cx="26" cy="24.0" r="6" fill="#D7FF3A"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="96" lengthAdjust="spacing" letter-spacing="2">VANILLA JS</text>
+</g><g transform="translate(470 12)">
+<rect x="3" y="4" width="116" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="116" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="116" height="48" rx="24.0" fill="#1b1d23" stroke="#FF8FC7" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg3)"><rect y="0" width="46" height="48" fill="url(#sheen)"><animate attributeName="x" values="-58;116" dur="6.1s" begin="1.5s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg3"><rect width="116" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#FF8FC7"/>
+<circle cx="26" cy="24.0" r="6" fill="#FF8FC7"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="1.2000000000000002s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="38" lengthAdjust="spacing" letter-spacing="2">GSAP</text>
+</g><g transform="translate(600 12)">
+<rect x="3" y="4" width="126" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="126" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="126" height="48" rx="24.0" fill="#1b1d23" stroke="#C9A877" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg4)"><rect y="0" width="50" height="48" fill="url(#sheen)"><animate attributeName="x" values="-63;126" dur="6.8s" begin="2.0s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg4"><rect width="126" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#C9A877"/>
+<circle cx="26" cy="24.0" r="6" fill="#C9A877"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="48" lengthAdjust="spacing" letter-spacing="2">JSZIP</text>
+</g><g transform="translate(740 12)">
+<rect x="3" y="4" width="154" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="154" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="154" height="48" rx="24.0" fill="#1b1d23" stroke="#FF5B23" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg5)"><rect y="0" width="62" height="48" fill="url(#sheen)"><animate attributeName="x" values="-77;154" dur="7.5s" begin="2.5s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg5"><rect width="154" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#FF5B23"/>
+<circle cx="26" cy="24.0" r="6" fill="#FF5B23"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="2.0s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="77" lengthAdjust="spacing" letter-spacing="2">HEIC2ANY</text>
+</g><g transform="translate(908 12)">
+<rect x="3" y="4" width="174" height="48" rx="24.0" fill="#0e0f13" opacity=".9"/>
+<rect x="-2" y="-2" width="174" height="48" rx="24.0" fill="#292c35" opacity=".55"/>
+<rect width="174" height="48" rx="24.0" fill="#1b1d23" stroke="#4D7CFF" stroke-opacity=".35" stroke-width="1.5"/>
+<g clip-path="url(#cstack.svg6)"><rect y="0" width="70" height="48" fill="url(#sheen)"><animate attributeName="x" values="-87;174" dur="8.2s" begin="3.0s" repeatCount="indefinite"/></rect></g>
+<clipPath id="cstack.svg6"><rect width="174" height="48" rx="24.0"/></clipPath>
+<circle cx="26" cy="24.0" r="6" fill="#4D7CFF"/>
+<circle cx="26" cy="24.0" r="6" fill="#4D7CFF"><animate attributeName="r" values="6;15;6" dur="2.2s" begin="2.4000000000000004s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="2.2s" begin="2.4000000000000004s" repeatCount="indefinite"/></circle>
+<text x="50" y="29.0" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#ECE8DF" textLength="96" lengthAdjust="spacing" letter-spacing="2">CANVAS API</text>
+</g></svg>

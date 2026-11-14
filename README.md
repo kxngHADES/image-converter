@@ -6,26 +6,23 @@
 
 <br>
 
-### **[Features](#features)** &nbsp;/&nbsp; **[Preview](#preview)** &nbsp;/&nbsp; **[Formats](#formats)** &nbsp;/&nbsp; **[Quick start](#quick-start)** &nbsp;/&nbsp; **[Stack](#stack)** &nbsp;/&nbsp; **[FAQ](#faq)**
-
-<br>
-
 **HEIC off your iPhone. WEBP from the web. PNG, AVIF, GIF, BMP.**
 <br>
 **Flip any of them into JPG, PNG or WEBP, right in your browser.**
 
 <br>
 
-![No uploads](https://img.shields.io/badge/NO_UPLOADS-D7FF3A?style=for-the-badge&labelColor=111214)
-![No build](https://img.shields.io/badge/NO_BUILD_STEP-FF5B23?style=for-the-badge&labelColor=111214)
-![Zero servers](https://img.shields.io/badge/ZERO_SERVERS-FF8FC7?style=for-the-badge&labelColor=111214)
-![One file](https://img.shields.io/badge/ONE_HTML_FILE-4D7CFF?style=for-the-badge&labelColor=111214)
+<img src="assets/badges.svg" alt="No uploads, no build step, zero servers, one HTML file">
+
+<br>
+
+[`PREVIEW`](#preview) &nbsp;&middot;&nbsp; [`HOW IT WORKS`](#how-it-works) &nbsp;&middot;&nbsp; [`FEATURES`](#features) &nbsp;&middot;&nbsp; [`FORMATS`](#formats) &nbsp;&middot;&nbsp; [`QUICK START`](#quick-start) &nbsp;&middot;&nbsp; [`STACK`](#stack) &nbsp;&middot;&nbsp; [`FAQ`](#faq)
 
 </div>
 
 <br>
 
-## Preview
+<img src="assets/h-preview.svg" alt="Preview" width="100%">
 
 <div align="center">
 
@@ -37,7 +34,7 @@
 
 <br>
 
-## How it works
+<img src="assets/h-how.svg" alt="How it works" width="100%">
 
 <img src="assets/flow.svg" alt="Drop, flip, take" width="100%">
 
@@ -45,21 +42,21 @@
 <tr>
 <td width="33%" valign="top">
 
-**01 / Drop it**
+**DROP IT**
 
 Throw files at the page, click to browse, or paste from your clipboard. The whole window is a drop zone.
 
 </td>
 <td width="33%" valign="top">
 
-**02 / Flip it**
+**FLIP IT**
 
 Pick a format, quality and max size. Your browser decodes and re-encodes every image on a canvas.
 
 </td>
 <td width="33%" valign="top">
 
-**03 / Take it**
+**TAKE IT**
 
 Download files one by one, or take the whole pile as a single `.zip`.
 
@@ -69,22 +66,13 @@ Download files one by one, or take the whole pile as a single `.zip`.
 
 <br>
 
-## Features
+<img src="assets/h-features.svg" alt="Features" width="100%">
 
-| | |
-|---|---|
-| **Local only** | Conversion runs on a `<canvas>` in your browser. Zero uploads, zero tracking. |
-| **HEIC and HEIF** | iPhone photos decode through `heic2any`, so they open anywhere. |
-| **Batch it** | Drop a whole pile and convert it in one go. Remove single files or clear everything. |
-| **Quality slider** | 40 to 100 percent for JPG and WEBP. PNG is lossless, so the slider switches itself off. |
-| **Max size** | Keep Original, or cap the longest edge at 4K, 2K or 1080. |
-| **Drag, drop, paste** | Drop anywhere on the page, or paste straight from the clipboard. |
-| **One-click zip** | Download all bundles everything with JSZip. |
-| **Honest stats** | See file count, size before, size after and the percentage saved or gained. |
+<img src="assets/features.svg" alt="Local only, HEIC and HEIF, batch, quality, max size, drag and paste, zip, stats" width="100%">
 
 <br>
 
-## Formats
+<img src="assets/h-formats.svg" alt="Formats" width="100%">
 
 <table>
 <tr>
@@ -115,7 +103,7 @@ Download files one by one, or take the whole pile as a single `.zip`.
 
 <br>
 
-## Quick start
+<img src="assets/h-start.svg" alt="Quick start" width="100%">
 
 ```bash
 git clone https://github.com/kxngHADES/image-converter.git
@@ -126,16 +114,15 @@ Then open `index.html` in your browser. There is no `npm install`, no bundler an
 
 <br>
 
-## Stack
+<img src="assets/h-stack.svg" alt="Stack" width="100%">
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-111214?style=flat-square&logo=html5&logoColor=D7FF3A)
-![CSS3](https://img.shields.io/badge/CSS3-111214?style=flat-square&logo=css3&logoColor=D7FF3A)
-![JavaScript](https://img.shields.io/badge/Vanilla_JS-111214?style=flat-square&logo=javascript&logoColor=D7FF3A)
-![GSAP](https://img.shields.io/badge/GSAP-111214?style=flat-square&logo=greensock&logoColor=D7FF3A)
+<img src="assets/stack.svg" alt="HTML5, CSS3, Vanilla JS, GSAP, JSZip, heic2any, Canvas API">
 
 </div>
+
+<br>
 
 | Piece | Job |
 |---|---|
@@ -147,23 +134,13 @@ Then open `index.html` in your browser. There is no `npm install`, no bundler an
 
 <br>
 
-## Palette
+<img src="assets/h-palette.svg" alt="Palette" width="100%">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/VOLT-D7FF3A?style=for-the-badge&labelColor=D7FF3A&color=D7FF3A" alt="Volt D7FF3A">
-<img src="https://img.shields.io/badge/ORANGE-FF5B23?style=for-the-badge&labelColor=FF5B23&color=FF5B23" alt="Orange FF5B23">
-<img src="https://img.shields.io/badge/PINK-FF8FC7?style=for-the-badge&labelColor=FF8FC7&color=FF8FC7" alt="Pink FF8FC7">
-<img src="https://img.shields.io/badge/BLUE-4D7CFF?style=for-the-badge&labelColor=4D7CFF&color=4D7CFF" alt="Blue 4D7CFF">
-<img src="https://img.shields.io/badge/CHARCOAL-1b1d23?style=for-the-badge&labelColor=1b1d23&color=1b1d23" alt="Charcoal 1b1d23">
-
-<sub>`#D7FF3A` &nbsp; `#FF5B23` &nbsp; `#FF8FC7` &nbsp; `#4D7CFF` &nbsp; `#1B1D23`</sub>
-
-</div>
+<img src="assets/palette.svg" alt="Volt D7FF3A, orange FF5B23, pink FF8FC7, blue 4D7CFF, charcoal 1B1D23" width="100%">
 
 <br>
 
-## FAQ
+<img src="assets/h-faq.svg" alt="FAQ" width="100%">
 
 <details>
 <summary><b>Do my photos get uploaded anywhere?</b></summary>
@@ -197,16 +174,10 @@ Yes. With <code>prefers-reduced-motion</code> on, the grain and looping animatio
 
 <br>
 
-## License
-
-Free to use, remix and flip.
-
-<br>
+<img src="assets/footer.svg" alt="Your files never left this tab" width="100%">
 
 <div align="center">
 
-### Your files never left this tab.
-
-<sub>**FLIP/** &nbsp;/&nbsp; built with pixels, not platforms.</sub>
+<sub>Free to use, remix and flip. &nbsp;&middot;&nbsp; **FLIP/**</sub>
 
 </div>

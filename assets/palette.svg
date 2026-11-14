@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1148" height="200" viewBox="0 0 1148 200" role="img" aria-label="Color palette: volt, orange, pink, blue, charcoal"><defs>
+<filter id="blur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+<linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><g transform="translate(30 26)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.0s" begin="0.0s" repeatCount="indefinite"/>
+<g transform="rotate(-4 100.0 70)">
+<rect x="5" y="10" width="200" height="140" fill="#000" opacity=".45"/>
+<rect width="200" height="140" fill="#D7FF3A"/>
+<rect x="64.0" y="-10" width="72" height="22" fill="#EFE9DC" fill-opacity=".6" transform="rotate(-3 100.0 0)"/>
+<text x="16" y="94" font-family="Impact,'Arial Black',sans-serif" font-size="32" fill="#111214" letter-spacing="1">VOLT</text>
+<text x="16" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#111214" fill-opacity=".75">#D7FF3A</text>
+</g></g></g><g transform="translate(252 26)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.4s" begin="0.35s" repeatCount="indefinite"/>
+<g transform="rotate(3 100.0 70)">
+<rect x="5" y="10" width="200" height="140" fill="#000" opacity=".45"/>
+<rect width="200" height="140" fill="#FF5B23"/>
+<rect x="64.0" y="-10" width="72" height="22" fill="#EFE9DC" fill-opacity=".6" transform="rotate(-3 100.0 0)"/>
+<text x="16" y="94" font-family="Impact,'Arial Black',sans-serif" font-size="32" fill="#111214" letter-spacing="1">ORANGE</text>
+<text x="16" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#111214" fill-opacity=".75">#FF5B23</text>
+</g></g></g><g transform="translate(474 26)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.8s" begin="0.7s" repeatCount="indefinite"/>
+<g transform="rotate(-2 100.0 70)">
+<rect x="5" y="10" width="200" height="140" fill="#000" opacity=".45"/>
+<rect width="200" height="140" fill="#FF8FC7"/>
+<rect x="64.0" y="-10" width="72" height="22" fill="#EFE9DC" fill-opacity=".6" transform="rotate(-3 100.0 0)"/>
+<text x="16" y="94" font-family="Impact,'Arial Black',sans-serif" font-size="32" fill="#111214" letter-spacing="1">PINK</text>
+<text x="16" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#111214" fill-opacity=".75">#FF8FC7</text>
+</g></g></g><g transform="translate(696 26)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.2s" begin="1.0499999999999998s" repeatCount="indefinite"/>
+<g transform="rotate(4 100.0 70)">
+<rect x="5" y="10" width="200" height="140" fill="#000" opacity=".45"/>
+<rect width="200" height="140" fill="#4D7CFF"/>
+<rect x="64.0" y="-10" width="72" height="22" fill="#EFE9DC" fill-opacity=".6" transform="rotate(-3 100.0 0)"/>
+<text x="16" y="94" font-family="Impact,'Arial Black',sans-serif" font-size="32" fill="#EFE9DC" letter-spacing="1">BLUE</text>
+<text x="16" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#EFE9DC" fill-opacity=".75">#4D7CFF</text>
+</g></g></g><g transform="translate(918 26)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.6s" begin="1.4s" repeatCount="indefinite"/>
+<g transform="rotate(-3 100.0 70)">
+<rect x="5" y="10" width="200" height="140" fill="#000" opacity=".45"/>
+<rect width="200" height="140" fill="#1b1d23" stroke="#868b98" stroke-width="1.5"/>
+<rect x="64.0" y="-10" width="72" height="22" fill="#EFE9DC" fill-opacity=".6" transform="rotate(-3 100.0 0)"/>
+<text x="16" y="94" font-family="Impact,'Arial Black',sans-serif" font-size="32" fill="#ECE8DF" letter-spacing="1">CHARCOAL</text>
+<text x="16" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#ECE8DF" fill-opacity=".75">#1B1D23</text>
+</g></g></g></svg>

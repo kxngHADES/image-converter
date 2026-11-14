@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1222" height="402" viewBox="0 0 1222 402" role="img" aria-label="Feature cards"><defs>
+<filter id="blur" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7"/></filter>
+<linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs><g transform="translate(6 6)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.00s" begin="0.0s" repeatCount="indefinite"/>
+<g transform="rotate(-1.2 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#D7FF3A" stroke-opacity=".28" stroke-width="1.5">01</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#D7FF3A"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">1</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">LOCAL ONLY</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Canvas in your browser.</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Zero uploads, zero tracking.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#D7FF3A"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(312 6)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.35s" begin="0.3s" repeatCount="indefinite"/>
+<g transform="rotate(0.9 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#FF5B23" stroke-opacity=".28" stroke-width="1.5">02</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#FF5B23"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">2</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">HEIC + HEIF</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">iPhone photos decode via</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">heic2any. Open anywhere.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#FF5B23"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="0.45s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(618 6)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.70s" begin="0.6s" repeatCount="indefinite"/>
+<g transform="rotate(-0.7 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#FF8FC7" stroke-opacity=".28" stroke-width="1.5">03</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#FF8FC7"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">3</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">BATCH IT</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Drop a whole pile, convert</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">in one go. Clear any time.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#FF8FC7"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="0.9s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(924 6)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.05s" begin="0.8999999999999999s" repeatCount="indefinite"/>
+<g transform="rotate(1.1 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#4D7CFF" stroke-opacity=".28" stroke-width="1.5">04</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#4D7CFF"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">4</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">QUALITY</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">40 to 100 for JPG, WEBP.</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">PNG stays lossless.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#4D7CFF"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="1.35s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(6 206)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.40s" begin="1.2s" repeatCount="indefinite"/>
+<g transform="rotate(0.8 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#C9A877" stroke-opacity=".28" stroke-width="1.5">05</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#C9A877"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">5</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">MAX SIZE</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Original, 4K, 2K or 1080</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">on the longest edge.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#C9A877"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(312 206)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.75s" begin="1.5s" repeatCount="indefinite"/>
+<g transform="rotate(-1 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#D7FF3A" stroke-opacity=".28" stroke-width="1.5">06</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#D7FF3A"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">6</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">DRAG + PASTE</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Drop anywhere on the page</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">or paste from clipboard.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#D7FF3A"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="2.25s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(618 206)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.10s" begin="1.7999999999999998s" repeatCount="indefinite"/>
+<g transform="rotate(1.2 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#FF5B23" stroke-opacity=".28" stroke-width="1.5">07</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#FF5B23"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">7</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">ONE-CLICK ZIP</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Download all as a single</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">archive with JSZip.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#FF5B23"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+</g></g></g><g transform="translate(924 206)"><g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.45s" begin="2.1s" repeatCount="indefinite"/>
+<g transform="rotate(-0.8 141.0 88.0)">
+<rect x="6" y="9" width="282" height="176" rx="26" fill="#0e0f13"/>
+<rect x="-4" y="-4" width="282" height="176" rx="26" fill="#292c35" opacity=".5"/>
+<rect width="282" height="176" rx="26" fill="#1b1d23" stroke="#292c35" stroke-width="1.5"/>
+<text x="264" y="160" text-anchor="end" font-family="Impact,'Arial Black',sans-serif" font-size="64" fill="none" stroke="#FF8FC7" stroke-opacity=".28" stroke-width="1.5">08</text>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#FF8FC7"/>
+<text x="41" y="51" text-anchor="middle" font-family="Impact,'Arial Black',sans-serif" font-size="19" fill="#111214">8</text>
+<text x="70" y="52" font-family="Impact,'Arial Black',sans-serif" font-size="25" fill="#ECE8DF" letter-spacing="1">HONEST STATS</text>
+<text x="24" y="102" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">Files, before, after and</text>
+<text x="24" y="124" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="14" fill="#b9bcc6">percent saved or gained.</text>
+<rect x="24" y="146" width="0" height="4" rx="2" fill="#FF8FC7"><animate attributeName="width" values="0;234;234;0" keyTimes="0;.5;.85;1" dur="5s" begin="3.15s" repeatCount="indefinite"/></rect>
+</g></g></g></svg>
